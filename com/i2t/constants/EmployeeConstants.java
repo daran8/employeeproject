@@ -29,4 +29,5 @@ public class EmployeeConstants {
     public static final String FALSE_MESSAGE = "Somthing Went Wrong!.";
     public static final String ROLE_1 = "Trainer";
     public static final String ROLE_2 = "Trainee";
+    public static final String ROLE_3 = "Viewer";
 }
